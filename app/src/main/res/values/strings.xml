@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Eleven</string>
+
+
+    <string name="facebook_app_id">2674798996099937</string>
+    <string name="fb_login_protocol_scheme">fb2674798996099937</string>
+
+
+    <!--<string name="ad_app_id">ca-app-pub-23d1166f89695221002508</string>
+    <string name="my_Interstitial_Add">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_account">Create Account</string>
+    <string name="select_age">Select age</string>
+    <string name="select_gender">Select gender</string>
+    <string name="full_name">Full Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+    <string name="signup">SIGNUP</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="by_signing_up_you_confirm_that_you_agree_to_our_n_terms_of_use_and_have_read_and_understood_n_our_privacy_policy">By signing up, you confirm that you agree to our \n Terms of Use and have read and understood \n our Privacy Policy.</string>
+    <string name="username">UserName</string>
+
+    <string name="fullname_text">%1$s %2$s</string>
+</resources>
